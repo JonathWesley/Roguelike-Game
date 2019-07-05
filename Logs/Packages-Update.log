@@ -1,0 +1,13 @@
+
+=== Tue Jul  2 20:59:25 2019
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.rider from version 1.0.4 to 1.0.8
+  com.unity.ide.visualstudio from version 1.0.10 to 1.0.11
+  com.unity.ide.vscode from version 1.0.4 to 1.0.7
+  com.unity.test-framework from version 1.0.13 to 1.0.14
+The following packages were removed:
+  com.unity.package-manager-ui@2.2.0
